@@ -11,6 +11,6 @@ puts "where do you want to eat?"
 here = "What would you like to eat?"
 puts "What would you like to eat?"
 
-# Lastly, puts it all back by interpolating these values in a string.
+puts "For your trip, you are going to stay in #{stay} and eat #{eats}."
 
 puts ""
